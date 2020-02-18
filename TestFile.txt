@@ -6,3 +6,4 @@ Change in file1 from hola to adios to just phuck off
 to fix bug1
 to fix bug2
 
+bug3 fixing for master
